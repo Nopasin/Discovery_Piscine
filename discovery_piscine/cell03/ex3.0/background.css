@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+button {
+    padding: 10px 10px;
+    background: #E1D1CE;
+    font-size: 2rem;
+    cursor: pointer;
+}
